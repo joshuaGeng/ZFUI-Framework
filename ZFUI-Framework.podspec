@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '4.3'
   s.requires_arc = true
 
-#   s.source_files = 'ZFUI-Framework/*'
+#   s.source_files = 'ZFUI/*'
   s.vendored_frameworks = 'ZFUI-Framework/ZFUI/ZFUI.framework'
 
   # s.ios.exclude_files = 'Classes/osx'
